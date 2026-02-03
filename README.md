@@ -1,2 +1,3 @@
 "A lightweight network port scanner built in Python. Designed to understand the TCP handshake process and socket programming. Future updates will include multi-threading for faster scans."
 * **`file_integrity.py`**: A cryptographic tool that generates SHA-256 checksums. Used to demonstrate **File Integrity Monitoring (FIM)**, a requirement for securing cloud storage (like AWS S3) against tampering and malware injection.
+* **`web_dir_enum.py`**: A simple directory brute-forcing script. It automates the discovery of hidden administrative panels and configuration files on web servers—a critical step in **Cloud Vulnerability Assessment**.
